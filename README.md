@@ -15,14 +15,14 @@ ICT Engineering, VIA University College, Horsens
 3rd Semester (05-12-2018) 
 
 Table of content
-Abstract	3
-1 Introduction	3
-2 Requirement	4
-3 Analysis	5
-4 Design	6
-5 Implementation	6
-7 Conclusion	8
-Reference	8
+Abstract	
+1 Introduction	
+2 Requirement	
+3 Analysis	
+4 Design	
+5 Implementation
+7 Conclusion	
+Reference	
 
 Abstract
 
@@ -39,12 +39,14 @@ Device will be control by the button and it will start out by turning the red le
 2 Requirement
 
 2.1 Functional requirements
-    1. The device contains three light (red, yellow, green).
+    
+1. The device contains three light (red, yellow, green).
 2. The system must be able to turn the red light on when the button is pressed 
 3. The system must be able to switch the between the three lights with a delay of one second after each light. 
     4. The system must emit a sound which is synchronized with the green light. 
 
 2.3 Non-Functional Requirements
+
 1.	The software should be written in assembler language.
 2.	The appliance should be build using Arduino AVR and basic component.
 3.	The project should interact with some sensors and actuators. 
